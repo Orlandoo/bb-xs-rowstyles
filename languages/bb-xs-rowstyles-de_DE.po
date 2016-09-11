@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beaver Builder Xitesolution Rowstyles\n"
+"POT-Creation-Date: 2016-09-07 22:33+0200\n"
+"PO-Revision-Date: 2016-09-07 22:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: Roland Dietz <info@xitesolution.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: bb-xs-rowstyles.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/xs-rowstyles.php:23
+msgctxt "Background type."
+msgid "Animated Gradient"
+msgstr "Animierter Verlauf"
+
+#: includes/xs-rowstyles.php:34
+msgid "Animated Gradient"
+msgstr "Animierter Hintergrund"
+
+#: includes/xs-rowstyles.php:38
+msgid "Gradient Direction"
+msgstr "Verlaufsrichtung"
+
+#: includes/xs-rowstyles.php:41
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: includes/xs-rowstyles.php:42
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: includes/xs-rowstyles.php:43
+msgid "Diagonal Down"
+msgstr "Diagonal abwärts"
+
+#: includes/xs-rowstyles.php:44
+msgid "Diagonal Up"
+msgstr "Diagonal aufwärts"
+
+#: includes/xs-rowstyles.php:49
+msgid "Animation Color"
+msgstr "Verlaufsfarbe"
+
+#: includes/xs-rowstyles.php:60
+msgid "Animation Duration"
+msgstr "Animationsdauer"
+
+#: includes/xs-rowstyles.php:64
+msgid "Duration"
+msgstr "Dauer"
+
+#: includes/xs-rowstyles.php:66
+msgid "Duration (seconds)"
+msgstr "Dauer (Sekunden)"
+
+#: includes/xs-rowstyles.php:67
+msgid "Enter a Duration"
+msgstr "Gebe die Dauer an"
+
+#: includes/xs-rowstyles.php:71
+msgid "Transition Timing"
+msgstr "Transition Timing"
+
+#: includes/xs-rowstyles.php:74
+msgid "Linear"
+msgstr "Linear"
+
+#: includes/xs-rowstyles.php:75
+msgid "Ease"
+msgstr "Verzögert"
+
+#: includes/xs-rowstyles.php:76
+msgid "Ease in"
+msgstr "Verzögert am Anfang"
+
+#: includes/xs-rowstyles.php:77
+msgid "Ease out"
+msgstr "Verzögert am Ende"
+
+#: includes/xs-rowstyles.php:78
+msgid "Ease In-Out"
+msgstr "Verzögert am Anfang und am Ende"
+
+#. Plugin Name of the plugin/theme
+msgid "Beaver Builder Xitesolution Rowstyles"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.xitesolution.de/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add an animated gradient as a full width background on any row, right from "
+"the Row-settings panel."
+msgstr ""
+"Fügt Zeilen einen animierten Farbverlauf als Hintergrund voller Breite "
+"hinzu, die Einstellung erfolgt direkt im Fenster mit den Zeileneinstellungen."
+
+#. Author of the plugin/theme
+msgid "Roland Dietz"
+msgstr ""
+
+#~ msgid "Duration (s)"
+#~ msgstr "Dauer (s)"
+
+#~ msgid "Gradient Type"
+#~ msgstr "Verlaufstyp"
